@@ -11,6 +11,7 @@ namespace GithubPractice
         static void Main(string[] args)
         {
             // This is a shell file for practice with Github
+            // Additional info added to commit
         }
     }
 }
