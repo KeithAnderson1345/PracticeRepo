@@ -24,7 +24,7 @@ Verify these are intact. If not, navigate to the solution explorer and right cli
 
 **Usage:**<br>
 This program can be used to track all the errors (bugs) created when making a program. The following images below are the data tables holding the entries provided by the user.<br>
-<img src="bugtrackerimages/CommentTable.png" width = 500><img src="bugtrackerimages/ProjectTable.png" width = 500>
+<img src="bugtrackerimages/CommentTable.png" width = 500><br><img src="bugtrackerimages/ProjectTable.png" width = 500>
 <img src="bugtrackerimages/ErrorTable.png" width = 800>
 
 After creating a login with a username and password, the API can be accessed using a 3rd party software like [Postman](https://www.postman.com/). The user can enter the type of error which is associated with a program as well as leave comments for future reference. Navigating to the Help page of the Api once running will show the various endpoints and the requirements needed to access them. 
