@@ -1,5 +1,5 @@
-# BUG TRACKER
-____________________________________________________
+# BUG TRACKER &nbsp;&nbsp;&nbsp;<img src="bugtrackerimages/BugTrackerLogo.png" width = 150>
+---
 
 **Description:**<br>
 Bug Tracker is a WebAPI created using [ASP.NET](https://dotnet.microsoft.com/apps/aspnet). The purpose of this program is to track the various errors (bugs) encountered with program creation. These bugs can be found when building the code, running the program, github or file creation errors.  
